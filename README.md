@@ -29,3 +29,7 @@ To run the Todo App locally, follow these steps:
    ```bash
    git clone https://github.com/kvishalll/MyToDoApplication.git
 
+
+## Project demo
+![todo1](https://github.com/kvishalll/MyToDoApplication/assets/101967158/fd70b8f6-bd3f-42ad-a6dd-ed54f53740dd)
+![todo2](https://github.com/kvishalll/MyToDoApplication/assets/101967158/44ae596a-a6aa-4361-954b-aed0bff5162e)
