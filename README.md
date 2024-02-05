@@ -27,5 +27,5 @@ To run the Todo App locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/kvishalll/todo-app.git
+   git clone https://github.com/kvishalll/MyToDoApplication.git
 
